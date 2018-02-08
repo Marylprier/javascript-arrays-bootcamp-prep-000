@@ -9,3 +9,8 @@ function addElementToBeginningOfArray() {
   ]
   numbers.unshift('5')
 }
+function destructivelyAddElementToBeginningOfArray() {
+  var numbers = [
+    '1', '2', '3', '4'
+  ]
+}
